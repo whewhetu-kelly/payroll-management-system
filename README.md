@@ -94,19 +94,19 @@ This is a comprehensive payroll management application that automates payroll pr
 ---
 ### Add Employee
 
-![Add Employee](screenshots/add employee.jpg)
+![Add Employee](screenshots/add-employee.jpg)
 
 ---
 
 ### Add Department
 
-![Add Department](screenshots/add department.jpg)
+![Add Department](screenshots/add-department.jpg)
 
 ---
 
 ### Add Payroll
 
-![Add Payroll](screenshots/add payroll.jpg)
+![Add Payroll](screenshots/add-payroll.jpg)
 
 ---
 
