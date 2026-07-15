@@ -53,31 +53,31 @@ This is a comprehensive payroll management application that automates payroll pr
 
 ### Login
 
-![Login](screenshots/login.png)
+![Login](payroll management system screenshots/login.jpg)
 
 ---
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](payroll management system screenshots/dashboard.jpg)
 
 ---
 
 ### Employees
 
-![Employees](screenshots/employees.png)
+![Employees](payroll management system screenshots/employees.jpg)
 
 ---
 
 ### Departments
 
-![Departments](screenshots/departments.png)
+![Departments](payroll management system screenshots/departments.jpg)
 
 ---
 
 ### Payroll Processing
 
-![Payroll](screenshots/payroll.png)
+![Payroll](payroll management system screenshots/payroll.jpg)
 
 ---
 
@@ -89,7 +89,30 @@ This is a comprehensive payroll management application that automates payroll pr
 
 ### Settings
 
-![Settings](screenshots/settings.png)
+![Settings](payroll management system screenshots/settings.jpg)
+
+---
+### Add Employee
+
+![Add Employee](payroll management system screenshots/add employee.jpg)
+
+---
+
+### Add Department
+
+![Add Department](payroll management system screenshots/add department.jpg)
+
+---
+
+### Add Payroll
+
+![Add Payroll](payroll management system screenshots/add payroll.jpg)
+
+---
+
+### Responsiveness
+
+![Responsiveness](payroll management system screenshots/responsiveness.jpg)
 
 ---
 
